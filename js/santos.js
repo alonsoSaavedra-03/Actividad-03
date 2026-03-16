@@ -1,6 +1,3 @@
-dasdasd
-
-
 //Metodo para ver el codigo de inventario privado.
 this.privilegiado = function() {
     return `El código privado del inventario es: ${codigoInventario}`;
